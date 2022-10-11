@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @suhailyou
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @suhailyousuf
+- 👀 I’m interested in coding solving problems
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on big data
+- 📫 How to reach me suhaildar2098786@gmail.com
 
 <!---
 suhailyou/suhailyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
